@@ -6,7 +6,7 @@
 
 ## 下载地址
 
-https://github.com/confidentFeng/QtAppProject
+https://github.com/confidentFeng/CustomControl.git
 
 
 
